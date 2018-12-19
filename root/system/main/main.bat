@@ -13,5 +13,6 @@ echo If you're not though, you'll need to download the source code.
 echo Don't worry! The code isn't that big in size, so you can download the whole BatchOS and compile it for free!
 
 :end
+echo.
 echo End of file -- pausing
 pause>nul
